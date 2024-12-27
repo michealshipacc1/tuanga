@@ -13,7 +13,7 @@ public class EmployeeDAOImpl implements EmployeeDAO {
 
 	@Override
 	public void addEmployee(Employee[] employees) {
-		System.out.println("How many employee you want to create? : ");
+		System.out.println("How many employee you want to create111? : ");
 		Scanner scanner = new Scanner(System.in);
 		int employeeNo = scanner.nextInt();
 		employees = new Employee[employeeNo];
