@@ -34,7 +34,7 @@ public class CollectionExample1 {
  
         // new TreeSet() sẽ sắp xếp các phần tử
         Set<String> hashSet = new HashSet<String>();
-        hashSet.add("PHP");
+        hashSet.add("PHP123");
         hashSet.add("Python");
         hashSet.add("Java");
         hashSet.add("Java");
